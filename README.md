@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and neuroscience 
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ... (I don't know lol)
-- 📫 How to reach me e-mail 'marialaurafelixaloncio@gmail.com' or Instagram '@marialaurafelix' Twitter 'MariaLauraFeli3'
+- 📫 How to reach me e-mail 'marialaurafelixaloncio@gmail.com' or Instagram '@marialaurafelix' or Twitter 'MariaLauraFeli3'
 
 <!---
 MariaLauraFelix/MariaLauraFelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
